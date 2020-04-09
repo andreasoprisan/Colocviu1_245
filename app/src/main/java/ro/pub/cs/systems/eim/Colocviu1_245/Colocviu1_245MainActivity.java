@@ -40,6 +40,7 @@ public class Colocviu1_245MainActivity extends AppCompatActivity {
                         result.append(newEntry);
                     }else{
                         result.append("+" + newEntry);
+                        
                     }
 
                 }
